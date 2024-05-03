@@ -1,0 +1,33 @@
+=====================================
+Other
+=====================================
+'Discord'
+
+
+=====================================
+Monospace 
+=====================================
+'Inconsolata', monospace
+'Roboto Mono', monospace
+'Source Code Pro', monospace
+'Ubuntu Mono', monospace
+'PT Mono', monospace
+'Droid Sans Mono', monospace
+'Space Mono', monospace
+'Cousine', monospace
+'Anonymous Pro', monospace
+'VT323', monospace
+'Share Tech Mono', monospace
+'Cutive Mono', monospace
+'Nova Mono', monospace
+'Fira Mono', monospace
+'Oxygen Mono', monospace
+'Overpass Mono', monospace
+
+
+=====================================
+Handwriting
+=====================================
+'FOT-PopJoy Std B', cursive
+'PopJoy', cursive
+'PopJoyStd-B', cursive
